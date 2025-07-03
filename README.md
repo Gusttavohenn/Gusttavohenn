@@ -2,7 +2,7 @@
 
 - Especializando em Back-end
 - Estudando Flutter e Swith
-- Graduando em Ciências de Dados com foco em Dev. Full Stack
+- Graduando em Engenharia de software
 - Possuo ingles intermediario
 
 <div align="center">
