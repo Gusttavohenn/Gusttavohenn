@@ -1,7 +1,7 @@
 ### Olá! Sou o Gustavo Oliveira
 
 - Especializando em Back-end
-- Estudando Flutter e Swith
+- Estudando Flutter e Swift
 - Graduando em Engenharia de software
 - Possuo ingles intermediario
 
