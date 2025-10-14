@@ -2,6 +2,8 @@
   <img src="https://i.postimg.cc/qqwCVtwX/banner-dev.jpg" alt="Banner do Gustavo Oliveira">
 </p>
 
+> ### 🌐 [**Clique aqui para ver meu Portfólio**](https://portfolio-gusttavohenn.vercel.app/)
+
 <h1 align="center">Olá 👋, eu sou o Gustavo Oliveira</h1>
 <h3 align="center">Um desenvolvedor Back-end apaixonado por transformar ideias em código.</h3>
 
@@ -19,7 +21,7 @@
 - 🎓 Cursando **Engenharia de Software**.
 - 🌱 Atualmente aprendendo sobre **Arquitetura de Microserviços e Docker**.
 - 💬 Me pergunte sobre **JavaScript, Node.js e APIs REST**.
-- 📫 Como me encontrar: **gusttavo_oliveira02@icloud.com**
+- 📫 Como me encontrar: **gustavo_oliveira02@icloud.com**
 
 <br>
 
@@ -51,7 +53,7 @@
 <h3 align="center">📬 Entre em Contato</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavo-oliveira-0a96b022a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn"/></a>
-  <a href="mailto:gusttavo_oliveira02@icloud.com" target="blank"><img align="center" src="https://img.shields.io/badge/iCloud-000?style=for-the-badge&logo=icloud&logoColor=white" alt="Meu iCloud Mail"/></a>
+  <a href="mailto:gustavo_oliveira02@icloud.com" target="blank"><img align="center" src="https://img.shields.io/badge/iCloud-000?style=for-the-badge&logo=icloud&logoColor=white" alt="Meu iCloud Mail"/></a>
   <a href="https://discord.com/users/estoico.exe" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Meu Discord"/></a>
   <a href="instagram.com/gusttavohenn" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Meu Instagram"/></a>
 </p>
