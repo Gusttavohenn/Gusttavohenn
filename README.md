@@ -1,59 +1,80 @@
+<div align="center">
+  <img src="https://i.postimg.cc/qqwCVtwX/banner-dev.jpg" alt="Banner do Gustavo Oliveira" width="100%">
+</div>
+
+<h1 align="center">Olá, eu sou o Gustavo Oliveira</h1>
+<h3 align="center">Desenvolvedor Full-Stack Jr.</h3>
+
 <p align="center">
-  <img src="https://i.postimg.cc/qqwCVtwX/banner-dev.jpg" alt="Banner do Gustavo Oliveira">
+  <img src="https://komarev.com/ghpvc/?username=gusttavohenn&label=Visitas&color=6C63FF&style=for-the-badge" alt="Visitas" />
+  <a href="https://portfolio-gusttavohenn.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFÓLIO-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
+  </a>
 </p>
-
-> ### 🌐 [**Clique aqui para ver meu Portfólio**](https://portfolio-gusttavohenn.vercel.app/)
-
-<h1 align="center">Olá 👋, eu sou o Gustavo Oliveira</h1>
-<h3 align="center">Um desenvolvedor Back-end apaixonado por transformar ideias em código.</h3>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=gusttavohenn&label=Profile%20views&color=0e75b6&style=flat" alt="Contador de visitas do perfil" /> 
-</p>
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 Sobre Mim:
-- 🎓 Cursando **Engenharia de Software**.
-- 🌱 Atualmente aprendendo sobre **Arquitetura de Microserviços e Docker**.
-- 💬 Me pergunte sobre **JavaScript, Node.js e APIs REST**.
-- 📫 Como me encontrar: **gustavo_oliveira02@icloud.com**
 
 <br>
 
-### 🛠️ Linguagens e Ferramentas:
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+## Sobre Mim
 
-</td>
-<td width="50%" valign="top" align="center">
+- Cursando **Analise e desenvolvimento de sistemas**
+- Focado em **Desenvolvimento Back-end**
+- Aprendendo **Arquitetura de Microserviços, Docker e RPA**
+- Contato: **gustavo_oliveira02@icloud.com**
 
-  <img src="https://github-readme-stats.vercel.app/api?username=gusttavohenn&show_icons=true&locale=pt-br&theme=dracula&hide_border=true&card_width=400" alt="Estatísticas do GitHub" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gusttavohenn&layout=compact&locale=pt-br&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
+<br>
 
-</td>
-</tr>
-</table>
+## Tech Stack
 
----
+<div align="center">
 
-<h3 align="center">📬 Entre em Contato</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-oliveira-0a96b022a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn"/></a>
-  <a href="mailto:gustavo_oliveira02@icloud.com" target="blank"><img align="center" src="https://img.shields.io/badge/iCloud-000?style=for-the-badge&logo=icloud&logoColor=white" alt="Meu iCloud Mail"/></a>
-  <a href="https://discord.com/users/estoico.exe" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Meu Discord"/></a>
-  <a href="instagram.com/gusttavohenn" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Meu Instagram"/></a>
-</p>
+### Core
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br>
+
+## Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusttavohenn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavohenn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gusttavohenn&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gusttavohenn&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph"/>
+</div>
+
+<br>
+
+## Conecte-se Comigo
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-oliveira-0a96b022a/)
+[![Email](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white)](mailto:gustavo_oliveira02@icloud.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/estoico.exe)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gusttavohenn)
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
