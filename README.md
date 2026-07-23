@@ -1,80 +1,232 @@
 <div align="center">
-  <img src="https://i.postimg.cc/qqwCVtwX/banner-dev.jpg" alt="Banner do Gustavo Oliveira" width="100%">
+
+<img src="https://img.shields.io/badge/PT--BR-0A2472?style=flat-square"/> <a href="README.en.md"><img src="https://img.shields.io/badge/EN-1a1a1a?style=flat-square"/></a>
+
+# Gustavo Oliveira
+
+### ◈ Desenvolvedor Full-Stack Jr. ◈
+
+Back-end • Automação • Integração de Sistemas • Infraestrutura de TI
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=0A2472&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full-Stack+Jr.;Automa%C3%A7%C3%A3o+%26+Integra%C3%A7%C3%A3o+de+Sistemas;Node.js+%7C+React+%7C+TypeScript;Infraestrutura+%26+Suporte+de+TI"/>
+
+<br><br>
+
+<table align="center">
+<tr>
+<td>
+<a href="https://portfolio-gusttavohenn.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFÓLIO-0A2472?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/gustavo-oliveira-0a96b022a/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A2472?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</td>
+<td>
+<a href="mailto:gustavo_oliveira02@icloud.com">
+<img src="https://img.shields.io/badge/EMAIL-0A2472?style=for-the-badge&logo=icloud&logoColor=white"/>
+</a>
+</td>
+</tr>
+</table>
+
 </div>
 
-<h1 align="center">Olá, eu sou o Gustavo Oliveira</h1>
-<h3 align="center">Desenvolvedor Full-Stack Jr.</h3>
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gusttavohenn&label=Visitas&color=6C63FF&style=for-the-badge" alt="Visitas" />
-  <a href="https://portfolio-gusttavohenn.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFÓLIO-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
-  </a>
-</p>
+<h2>
+<img src="https://img.shields.io/badge/◈-0A2472?style=flat-square"/>
+ Sobre Mim
+</h2>
+
+```bash
+[gustavo@dev ~]# whoami
+
+Gustavo Oliveira
+Desenvolvedor Full-Stack Jr. focado em:
+
+◈ Desenvolvimento Back-end
+◈ Automação e Integração de Sistemas
+◈ Infraestrutura e Suporte de TI (ISP/Telecom)
+◈ Arquitetura de Microserviços (em estudo)
+◈ Docker & RPA (em estudo)
+```
 
 <br>
 
-## Sobre Mim
+<h2>
+<img src="https://img.shields.io/badge/◈-0A2472?style=flat-square"/>
+ Projetos em Destaque
+</h2>
 
-- Cursando **Analise e desenvolvimento de sistemas**
-- Focado em **Desenvolvimento Back-end**
-- Aprendendo **Arquitetura de Microserviços, Docker e RPA**
-- Contato: **gustavo_oliveira02@icloud.com**
+```text
+◈ Fang — scanner de segurança web e simulador de ataques (SaaS)
+◈ Gox Assina — dashboard de assinatura eletrônica de contratos
+```
+
+<table align="center">
+<tr>
+<td width="50%">
+
+**Fang**
+Scanner de segurança web SaaS: roda dezenas de módulos de varredura e vetores de ataque simulados, gera pontuação de vulnerabilidade automática e entrega relatórios prontos para entrega ao cliente.
+
+<a href="https://fang.nyxu.com.br/">
+<img src="https://img.shields.io/badge/ACESSAR-0A2472?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%">
+
+**Gox Assina**
+Dashboard interno de assinatura eletrônica de contratos para a Gox Internet: acompanha status (pendente, enviado, visualizado, assinado, expirado), gera links de assinatura para clientes e exporta relatórios.
+
+<a href="https://assina.goxinternet.com.br/">
+<img src="https://img.shields.io/badge/ACESSAR-0A2472?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## Tech Stack
-
-<div align="center">
-
-### Core
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+<h2>
+<img src="https://img.shields.io/badge/◈-0A2472?style=flat-square"/>
+ Tech Stack
+</h2>
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+```text
+◈ HTML5
+◈ CSS3
+◈ JavaScript
+◈ React
+◈ Next.js
+◈ TypeScript
+◈ Blazor
+```
+
+### Backend
+
+```text
+◈ Node.js
+◈ PHP
+◈ Laravel
+◈ Python
+◈ Java
+◈ C#
+◈ .NET
+```
+
+### Ferramentas & DB
+
+```text
+◈ Git
+◈ GitHub
+◈ Docker
+◈ MongoDB
+◈ MySQL
+◈ Análise de Logs
+```
+
+### TI & Infraestrutura
+
+```text
+◈ Zabbix
+◈ Grafana
+◈ Cisco
+◈ MikroTik
+◈ Sophos
+◈ pfSense
+◈ Fortinet
+◈ VPNs
+◈ Hardening
+◈ Windows Server
+◈ Bash
+◈ PowerShell
+◈ Veeam Backup
+◈ rsync
+◈ Suporte Nível 2
+```
+
+<br>
+
+<h2>
+<img src="https://img.shields.io/badge/◈-0A2472?style=flat-square"/>
+ Status Atual
+</h2>
+
+```bash
+[gustavo@dev ~]# status
+
+Curso ADS         : EM ANDAMENTO
+Back-end          : ATIVO
+Automação          : ATIVO
+Infraestrutura     : ATIVO
+Docker & RPA       : ESTUDANDO
+Microserviços      : ESTUDANDO
+```
+
+<br>
+
+<h2>
+<img src="https://img.shields.io/badge/◈-0A2472?style=flat-square"/>
+ Estatísticas do GitHub
+</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gusttavohenn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0A2472&icon_color=0A2472&text_color=ffffff"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavohenn&layout=compact&hide_border=true&bg_color=0d1117&title_color=0A2472&icon_color=0A2472&text_color=ffffff"/>
+
+<br><br>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=gusttavohenn&background=0d1117&hide_border=true&ring=0A2472&fire=0A2472&currStreakLabel=0A2472&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gusttavohenn&bg_color=0d1117&color=ffffff&line=0A2472&point=0A2472&area=true&hide_border=true"/>
 
 </div>
 
 <br>
 
-## Estatísticas do GitHub
+<h2>
+<img src="https://img.shields.io/badge/◈-0A2472?style=flat-square"/>
+ Contato
+</h2>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusttavohenn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavohenn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gusttavohenn&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gusttavohenn&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph"/>
-</div>
-
-<br>
-
-## Conecte-se Comigo
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-oliveira-0a96b022a/)
-[![Email](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white)](mailto:gustavo_oliveira02@icloud.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/estoico.exe)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gusttavohenn)
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
+<table align="center">
+<tr>
+<td>
+<a href="mailto:gustavo_oliveira02@icloud.com">
+<img src="https://img.shields.io/badge/EMAIL-0A2472?style=for-the-badge&logo=icloud&logoColor=white"/>
+</a>
+</td>
+<td>
+<a href="https://github.com/gusttavohenn">
+<img src="https://img.shields.io/badge/GITHUB-0A2472?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/gustavo-oliveira-0a96b022a/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A2472?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</td>
+<td>
+<a href="https://discord.com/users/estoico.exe">
+<img src="https://img.shields.io/badge/DISCORD-0A2472?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+</td>
+<td>
+<a href="https://instagram.com/gusttavohenn">
+<img src="https://img.shields.io/badge/INSTAGRAM-0A2472?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</td>
+</tr>
+</table>
